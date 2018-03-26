@@ -1,6 +1,6 @@
 # About
 **VKDialogBotPHP** is the simple realization of dialog bot for VK.com on PHP.
->**VK** is one of the most popular social networking app in Eastern Europe (Russia, Ukraine, Belarus). 
+>**VK** is one of the most popular social networking apps in Eastern Europe (Russia, Ukraine, Belarus). 
 
 VK made *Callback API* for warking with events in public pages. *VKDialogBotPHP* use this API for working with messages events.
 
